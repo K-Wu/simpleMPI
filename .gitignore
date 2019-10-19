@@ -1,0 +1,7 @@
+.vs/
+bin/
+x64/
+simpleMPI
+simpleMPI_mpi.o
+simpleMPI.o
+*.user
